@@ -81,12 +81,4 @@ All marker icons are \`.jpg\` images named after the UNESCO sites (e.g., \`Taj M
 
 ---
 
-## 📜 License
 
-MIT License — feel free to fork, use, and share!
-
----
-
-## 🙌 Acknowledgments
-
-Thanks to the open-source mapping community and tools like [Folium](https://python-visualization.github.io/folium/) for enabling interactive GIS in Python.
