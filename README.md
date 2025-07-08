@@ -41,7 +41,7 @@ Indian-Landmarks/
    \`\`\`
 
 2. Ensure required files are present:
-   - \`IL.csv\`
+   - \`IndianLandmarks.csv\`
    - \`INDIA_STATES.geojson\`
    - Image files like \`Taj Mahal.jpg\`, \`Agra Fort.jpg\`, etc.
 
